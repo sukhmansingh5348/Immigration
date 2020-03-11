@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Immigration", "Immigration\Immigration.csproj", "{03B4B2E2-8947-4AE6-AF61-2D4C04010305}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03B4B2E2-8947-4AE6-AF61-2D4C04010305}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03B4B2E2-8947-4AE6-AF61-2D4C04010305}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03B4B2E2-8947-4AE6-AF61-2D4C04010305}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03B4B2E2-8947-4AE6-AF61-2D4C04010305}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21574BE3-8B2C-4460-B9D1-A4DB13268F16}
+	EndGlobalSection
+EndGlobal
